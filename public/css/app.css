@@ -1,0 +1,15 @@
+.spinner-border {
+    position: fixed !important;
+    height: 20rem !important;
+    width: 20rem !important;
+    margin: auto;
+    z-index: 999;
+}
+
+.background_loader {
+    background: rgba(255,255,255,0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 998;
+}
